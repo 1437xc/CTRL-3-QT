@@ -1,0 +1,19 @@
+# Visual Studio 临时文件
+.vs/
+out/
+*.ipch
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.res
+
+# Qt 编译文件
+build-*/
+*.user
+*.pro.user
+*.autosave
+
+# 系统文件
+.DS_Store
+Thumbs.db
